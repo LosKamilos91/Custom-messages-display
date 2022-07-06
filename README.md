@@ -18,3 +18,6 @@ Use in other static method
 
 ### Display
 ![testinconsole](https://github.com/LosKamilos91/Custom-messages-display/blob/9dcce8942078e7928a417ba1b375f9af3fb2399a/IMG/test.png)
+
+### How use?
+Add the <strong>MessagesLibrary.dll</strong> reference from the <strong>bin/Debug</strong> folder to the project and enjoy the library.
